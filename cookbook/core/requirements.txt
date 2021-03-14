@@ -70,7 +70,7 @@ pathspec==0.8.1
     # via scantree
 pillow==8.1.2
     # via matplotlib
-protobuf==3.15.5
+protobuf==3.15.6
     # via
     #   flyteidl
     #   flytekit
