@@ -20,15 +20,15 @@ dataclasses-json==0.5.2
     # via flytekit
 decorator==4.4.2
     # via retry
-deprecated==1.2.11
+deprecated==1.2.12
     # via flytekit
 dirhash==0.2.1
     # via flytekit
 docker-image-py==0.1.10
     # via flytekit
-flyteidl==0.18.16
+flyteidl==0.18.18
     # via flytekit
-https://github.com/flyteorg/flytekit/archive/cbdc0c030b7e6b42a2f2f60169a94f4ced024749.zip#egg=flytekit
+https://github.com/flyteorg/flytekit/archive/26f42ae89f33d589d36acb3e73fee3e63cd41119.zip#egg=flytekit
     # via -r ../common/requirements-common.in
 future==0.18.2
     # via croniter
@@ -36,7 +36,7 @@ grpcio==1.36.1
     # via flytekit
 idna==2.10
     # via requests
-importlib-metadata==3.7.2
+importlib-metadata==3.7.3
     # via keyring
 keyring==23.0.0
     # via flytekit
@@ -70,7 +70,7 @@ pathspec==0.8.1
     # via scantree
 pillow==8.1.2
     # via matplotlib
-protobuf==3.15.5
+protobuf==3.15.6
     # via
     #   flyteidl
     #   flytekit
